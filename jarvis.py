@@ -80,7 +80,7 @@ if __name__=="__main__":
             speak('opening google')
             browser.open('google.com')
 
-#for opening gmail
+#for opening google mail
         elif 'open gmail' in quary:
             speak('opening gmail')
             browser.open('gmail.com')
